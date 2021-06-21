@@ -1,0 +1,7 @@
+C:\Users\sage.s.porter\source\repos\Keylogger\Keylogger\obj\Debug\Keylogger.csprojResolveAssemblyReference.cache
+C:\Users\sage.s.porter\source\repos\Keylogger\Keylogger\obj\Debug\Keylogger.csproj.CoreCompileInputs.cache
+C:\Users\sage.s.porter\source\repos\Keylogger\Keylogger\bin\Debug\Keylogger.exe.config
+C:\Users\sage.s.porter\source\repos\Keylogger\Keylogger\bin\Debug\Keylogger.exe
+C:\Users\sage.s.porter\source\repos\Keylogger\Keylogger\bin\Debug\Keylogger.pdb
+C:\Users\sage.s.porter\source\repos\Keylogger\Keylogger\obj\Debug\Keylogger.exe
+C:\Users\sage.s.porter\source\repos\Keylogger\Keylogger\obj\Debug\Keylogger.pdb

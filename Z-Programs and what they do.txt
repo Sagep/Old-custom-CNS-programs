@@ -1,0 +1,23 @@
+EmergencyMessager
+This program sends a message to specific/all computers in the event that Outlook goes down. 
+
+FaxSuccess
+This program calculates the percenatile of failure rates based on the rcv and send logs of GFI Faxmaker. 
+
+Internal chat
+This program connects the IT team together via an internal chat. Note: this requires a static IP.
+
+Keylogger
+Simple keylogging program which allows users to be tracked and the log of the keypresses to be entered into a .txt file in which the program was launched. 
+
+Searcher
+This program generates the scripts required to find and/or remove user permissions. 
+
+CNS IT Ticketing System v1.0
+First version of the IT ticketing system. 
+
+CNSEquipmentLogger
+This program logs where equipment has been and what software it has had on it. 
+
+Mass Database Updater
+This program updates the fields of the selected database to a specified value. Please be aware that this is very dangerous and is NOT reversable. Use at your own risk and if you know what you're doing. 
