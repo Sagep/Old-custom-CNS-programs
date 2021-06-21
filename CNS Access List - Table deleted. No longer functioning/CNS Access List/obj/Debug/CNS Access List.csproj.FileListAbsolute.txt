@@ -1,0 +1,24 @@
+C:\Users\sage.s.porter\source\repos\CNS Access List\CNS Access List\bin\Debug\CNS Access List.exe.config
+C:\Users\sage.s.porter\source\repos\CNS Access List\CNS Access List\bin\Debug\CNS Access List.exe
+C:\Users\sage.s.porter\source\repos\CNS Access List\CNS Access List\bin\Debug\CNS Access List.pdb
+C:\Users\sage.s.porter\source\repos\CNS Access List\CNS Access List\obj\Debug\CNS_Access_List.Form1.resources
+C:\Users\sage.s.porter\source\repos\CNS Access List\CNS Access List\obj\Debug\CNS_Access_List.New_User.resources
+C:\Users\sage.s.porter\source\repos\CNS Access List\CNS Access List\obj\Debug\CNS_Access_List.Properties.Resources.resources
+C:\Users\sage.s.porter\source\repos\CNS Access List\CNS Access List\obj\Debug\CNS_Access_List.UpdateUser.resources
+C:\Users\sage.s.porter\source\repos\CNS Access List\CNS Access List\obj\Debug\CNS Access List.csproj.GenerateResource.cache
+C:\Users\sage.s.porter\source\repos\CNS Access List\CNS Access List\obj\Debug\CNS Access List.csproj.CoreCompileInputs.cache
+C:\Users\sage.s.porter\source\repos\CNS Access List\CNS Access List\obj\Debug\CNS Access List.exe
+C:\Users\sage.s.porter\source\repos\CNS Access List\CNS Access List\obj\Debug\CNS Access List.pdb
+C:\Users\sage.s.porter\source\repos\CNS Access List\CNS Access List\obj\Debug\CNS Access List.csprojAssemblyReference.cache
+A:\Programs created by Sage\CNS Access List\CNS Access List\bin\Debug\CNS Access List.exe.config
+A:\Programs created by Sage\CNS Access List\CNS Access List\bin\Debug\CNS Access List.exe
+A:\Programs created by Sage\CNS Access List\CNS Access List\bin\Debug\CNS Access List.pdb
+A:\Programs created by Sage\CNS Access List\CNS Access List\obj\Debug\CNS Access List.csprojAssemblyReference.cache
+A:\Programs created by Sage\CNS Access List\CNS Access List\obj\Debug\CNS_Access_List.Form1.resources
+A:\Programs created by Sage\CNS Access List\CNS Access List\obj\Debug\CNS_Access_List.New_User.resources
+A:\Programs created by Sage\CNS Access List\CNS Access List\obj\Debug\CNS_Access_List.Properties.Resources.resources
+A:\Programs created by Sage\CNS Access List\CNS Access List\obj\Debug\CNS_Access_List.UpdateUser.resources
+A:\Programs created by Sage\CNS Access List\CNS Access List\obj\Debug\CNS Access List.csproj.GenerateResource.cache
+A:\Programs created by Sage\CNS Access List\CNS Access List\obj\Debug\CNS Access List.csproj.CoreCompileInputs.cache
+A:\Programs created by Sage\CNS Access List\CNS Access List\obj\Debug\CNS Access List.exe
+A:\Programs created by Sage\CNS Access List\CNS Access List\obj\Debug\CNS Access List.pdb
