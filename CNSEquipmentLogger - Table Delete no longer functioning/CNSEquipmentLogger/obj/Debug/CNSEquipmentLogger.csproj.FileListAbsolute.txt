@@ -1,0 +1,24 @@
+C:\Users\sage.s.porter\source\repos\CNSEquipmentLogger\CNSEquipmentLogger\bin\Debug\CNSEquipmentLogger.exe.config
+C:\Users\sage.s.porter\source\repos\CNSEquipmentLogger\CNSEquipmentLogger\bin\Debug\CNSEquipmentLogger.exe
+C:\Users\sage.s.porter\source\repos\CNSEquipmentLogger\CNSEquipmentLogger\bin\Debug\CNSEquipmentLogger.pdb
+C:\Users\sage.s.porter\source\repos\CNSEquipmentLogger\CNSEquipmentLogger\obj\Debug\CNSEquipmentLogger.csprojAssemblyReference.cache
+C:\Users\sage.s.porter\source\repos\CNSEquipmentLogger\CNSEquipmentLogger\obj\Debug\CNSEquipmentLogger.Form1.resources
+C:\Users\sage.s.porter\source\repos\CNSEquipmentLogger\CNSEquipmentLogger\obj\Debug\CNSEquipmentLogger.Form2.resources
+C:\Users\sage.s.porter\source\repos\CNSEquipmentLogger\CNSEquipmentLogger\obj\Debug\CNSEquipmentLogger.Properties.Resources.resources
+C:\Users\sage.s.porter\source\repos\CNSEquipmentLogger\CNSEquipmentLogger\obj\Debug\CNSEquipmentLogger.Update.resources
+C:\Users\sage.s.porter\source\repos\CNSEquipmentLogger\CNSEquipmentLogger\obj\Debug\CNSEquipmentLogger.csproj.GenerateResource.cache
+C:\Users\sage.s.porter\source\repos\CNSEquipmentLogger\CNSEquipmentLogger\obj\Debug\CNSEquipmentLogger.csproj.CoreCompileInputs.cache
+C:\Users\sage.s.porter\source\repos\CNSEquipmentLogger\CNSEquipmentLogger\obj\Debug\CNSEquipmentLogger.exe
+C:\Users\sage.s.porter\source\repos\CNSEquipmentLogger\CNSEquipmentLogger\obj\Debug\CNSEquipmentLogger.pdb
+A:\Programs created by Sage\CNSEquipmentLogger\CNSEquipmentLogger\bin\Debug\CNSEquipmentLogger.exe.config
+A:\Programs created by Sage\CNSEquipmentLogger\CNSEquipmentLogger\bin\Debug\CNSEquipmentLogger.exe
+A:\Programs created by Sage\CNSEquipmentLogger\CNSEquipmentLogger\bin\Debug\CNSEquipmentLogger.pdb
+A:\Programs created by Sage\CNSEquipmentLogger\CNSEquipmentLogger\obj\Debug\CNSEquipmentLogger.csprojAssemblyReference.cache
+A:\Programs created by Sage\CNSEquipmentLogger\CNSEquipmentLogger\obj\Debug\CNSEquipmentLogger.Form1.resources
+A:\Programs created by Sage\CNSEquipmentLogger\CNSEquipmentLogger\obj\Debug\CNSEquipmentLogger.Form2.resources
+A:\Programs created by Sage\CNSEquipmentLogger\CNSEquipmentLogger\obj\Debug\CNSEquipmentLogger.Properties.Resources.resources
+A:\Programs created by Sage\CNSEquipmentLogger\CNSEquipmentLogger\obj\Debug\CNSEquipmentLogger.Update.resources
+A:\Programs created by Sage\CNSEquipmentLogger\CNSEquipmentLogger\obj\Debug\CNSEquipmentLogger.csproj.GenerateResource.cache
+A:\Programs created by Sage\CNSEquipmentLogger\CNSEquipmentLogger\obj\Debug\CNSEquipmentLogger.csproj.CoreCompileInputs.cache
+A:\Programs created by Sage\CNSEquipmentLogger\CNSEquipmentLogger\obj\Debug\CNSEquipmentLogger.exe
+A:\Programs created by Sage\CNSEquipmentLogger\CNSEquipmentLogger\obj\Debug\CNSEquipmentLogger.pdb
