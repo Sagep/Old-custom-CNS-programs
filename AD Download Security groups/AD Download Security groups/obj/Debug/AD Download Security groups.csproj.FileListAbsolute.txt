@@ -1,0 +1,10 @@
+C:\Users\sage.s.porter\source\repos\AD Download Security groups\AD Download Security groups\obj\Debug\AD Download Security groups.csprojAssemblyReference.cache
+C:\Users\sage.s.porter\source\repos\AD Download Security groups\AD Download Security groups\obj\Debug\AD_Download_Security_groups.Form1.resources
+C:\Users\sage.s.porter\source\repos\AD Download Security groups\AD Download Security groups\obj\Debug\AD_Download_Security_groups.Properties.Resources.resources
+C:\Users\sage.s.porter\source\repos\AD Download Security groups\AD Download Security groups\obj\Debug\AD Download Security groups.csproj.GenerateResource.cache
+C:\Users\sage.s.porter\source\repos\AD Download Security groups\AD Download Security groups\obj\Debug\AD Download Security groups.csproj.CoreCompileInputs.cache
+C:\Users\sage.s.porter\source\repos\AD Download Security groups\AD Download Security groups\bin\Debug\AD Download Security groups.exe.config
+C:\Users\sage.s.porter\source\repos\AD Download Security groups\AD Download Security groups\bin\Debug\AD Download Security groups.exe
+C:\Users\sage.s.porter\source\repos\AD Download Security groups\AD Download Security groups\bin\Debug\AD Download Security groups.pdb
+C:\Users\sage.s.porter\source\repos\AD Download Security groups\AD Download Security groups\obj\Debug\AD Download Security groups.exe
+C:\Users\sage.s.porter\source\repos\AD Download Security groups\AD Download Security groups\obj\Debug\AD Download Security groups.pdb
