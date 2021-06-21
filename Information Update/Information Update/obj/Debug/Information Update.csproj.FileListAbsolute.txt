@@ -1,0 +1,20 @@
+C:\Users\Sage.S.Porter.CNS\source\repos\Information Update\Information Update\bin\Debug\Information Update.exe.config
+C:\Users\Sage.S.Porter.CNS\source\repos\Information Update\Information Update\bin\Debug\Information Update.exe
+C:\Users\Sage.S.Porter.CNS\source\repos\Information Update\Information Update\bin\Debug\Information Update.pdb
+C:\Users\Sage.S.Porter.CNS\source\repos\Information Update\Information Update\obj\Debug\Information Update.csprojAssemblyReference.cache
+C:\Users\Sage.S.Porter.CNS\source\repos\Information Update\Information Update\obj\Debug\Information_Update.Form1.resources
+C:\Users\Sage.S.Porter.CNS\source\repos\Information Update\Information Update\obj\Debug\Information_Update.Properties.Resources.resources
+C:\Users\Sage.S.Porter.CNS\source\repos\Information Update\Information Update\obj\Debug\Information Update.csproj.GenerateResource.cache
+C:\Users\Sage.S.Porter.CNS\source\repos\Information Update\Information Update\obj\Debug\Information Update.csproj.CoreCompileInputs.cache
+C:\Users\Sage.S.Porter.CNS\source\repos\Information Update\Information Update\obj\Debug\Information Update.exe
+C:\Users\Sage.S.Porter.CNS\source\repos\Information Update\Information Update\obj\Debug\Information Update.pdb
+A:\Programs created by Sage\Information Update\Information Update\bin\Debug\Information Update.exe.config
+A:\Programs created by Sage\Information Update\Information Update\bin\Debug\Information Update.exe
+A:\Programs created by Sage\Information Update\Information Update\bin\Debug\Information Update.pdb
+A:\Programs created by Sage\Information Update\Information Update\obj\Debug\Information Update.csprojAssemblyReference.cache
+A:\Programs created by Sage\Information Update\Information Update\obj\Debug\Information_Update.Form1.resources
+A:\Programs created by Sage\Information Update\Information Update\obj\Debug\Information_Update.Properties.Resources.resources
+A:\Programs created by Sage\Information Update\Information Update\obj\Debug\Information Update.csproj.GenerateResource.cache
+A:\Programs created by Sage\Information Update\Information Update\obj\Debug\Information Update.csproj.CoreCompileInputs.cache
+A:\Programs created by Sage\Information Update\Information Update\obj\Debug\Information Update.exe
+A:\Programs created by Sage\Information Update\Information Update\obj\Debug\Information Update.pdb
