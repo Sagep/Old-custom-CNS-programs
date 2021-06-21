@@ -1,0 +1,12 @@
+A:\Programs created by Sage\Equipment Scanner\Equipment Scanner\bin\Debug\Equipment Scanner.exe.config
+A:\Programs created by Sage\Equipment Scanner\Equipment Scanner\bin\Debug\Equipment Scanner.exe
+A:\Programs created by Sage\Equipment Scanner\Equipment Scanner\bin\Debug\Equipment Scanner.pdb
+A:\Programs created by Sage\Equipment Scanner\Equipment Scanner\obj\Debug\Equipment Scanner.csprojAssemblyReference.cache
+A:\Programs created by Sage\Equipment Scanner\Equipment Scanner\obj\Debug\Equipment_Scanner.Form1.resources
+A:\Programs created by Sage\Equipment Scanner\Equipment Scanner\obj\Debug\Equipment_Scanner.Properties.Resources.resources
+A:\Programs created by Sage\Equipment Scanner\Equipment Scanner\obj\Debug\Equipment Scanner.csproj.GenerateResource.cache
+A:\Programs created by Sage\Equipment Scanner\Equipment Scanner\obj\Debug\Equipment Scanner.csproj.CoreCompileInputs.cache
+A:\Programs created by Sage\Equipment Scanner\Equipment Scanner\obj\Debug\Equipment Scanner.exe
+A:\Programs created by Sage\Equipment Scanner\Equipment Scanner\obj\Debug\Equipment Scanner.pdb
+A:\Programs created by Sage\Equipment Scanner\Equipment Scanner\obj\Debug\Equipment_Scanner.CreateEquip.resources
+A:\Programs created by Sage\Equipment Scanner\Equipment Scanner\obj\Debug\Equipment_Scanner.OldEquipment.resources
