@@ -1,0 +1,81 @@
+C:\Users\sage.s.porter\Desktop\Build\CNS IT Ticketing System.exe.config
+C:\Users\sage.s.porter\Desktop\Build\CNS IT Ticketing System.exe.manifest
+C:\Users\sage.s.porter\Desktop\Build\CNS IT Ticketing System.application
+C:\Users\sage.s.porter\Desktop\Build\CNS IT Ticketing System.exe
+C:\Users\sage.s.porter\Desktop\Build\CNS IT Ticketing System.pdb
+C:\Users\sage.s.porter\Documents\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\IT Ticketing System.csproj.ResolveComReference.cache
+C:\Users\sage.s.porter\Documents\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\CNS_IT_Ticketing_System_v1._0.CloseTicket.resources
+C:\Users\sage.s.porter\Documents\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\CNS_IT_Ticketing_System_v1._0.Form1.resources
+C:\Users\sage.s.porter\Documents\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\CNS_IT_Ticketing_System_v1._0.Form3.resources
+C:\Users\sage.s.porter\Documents\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\CNS_IT_Ticketing_System_v1._0.Form2.resources
+C:\Users\sage.s.porter\Documents\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\CNS_IT_Ticketing_System_v1._0.More_Details.resources
+C:\Users\sage.s.porter\Documents\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\CNS_IT_Ticketing_System_v1._0.Properties.Resources.resources
+C:\Users\sage.s.porter\Documents\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\CNS_IT_Ticketing_System_v1._0.Savedates.resources
+C:\Users\sage.s.porter\Documents\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\CNS_IT_Ticketing_System_v1._0.UpdateTicket.resources
+C:\Users\sage.s.porter\Documents\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\IT Ticketing System.csproj.GenerateResource.Cache
+C:\Users\sage.s.porter\Documents\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\IT Ticketing System.csproj.CoreCompileInputs.cache
+C:\Users\sage.s.porter\Documents\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\CNS IT Ticketing System2.exe.manifest
+C:\Users\sage.s.porter\Documents\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\CNS IT Ticketing System2.application
+C:\Users\sage.s.porter\Documents\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\CNS IT Ticketing System2.exe.config
+C:\Users\sage.s.porter\Documents\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\CNS IT Ticketing System2.exe.manifest
+C:\Users\sage.s.porter\Documents\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\CNS IT Ticketing System2.application
+C:\Users\sage.s.porter\Documents\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\CNS IT Ticketing System2.exe
+C:\Users\sage.s.porter\Documents\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\CNS IT Ticketing System2.pdb
+C:\Users\sage.s.porter\Documents\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\CNS IT Ticketing System2.exe
+C:\Users\sage.s.porter\Documents\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\CNS IT Ticketing System2.pdb
+C:\Users\sage.s.porter\Documents\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\IT Ticketing System.csprojResolveAssemblyReference.cache
+C:\Users\sage.s.porter\Documents\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\CNS_IT_Ticketing_System_v1._0.AdminTickets.resources
+A:\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\IT Ticketing System.csprojResolveAssemblyReference.cache
+A:\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\IT Ticketing System.csproj.ResolveComReference.cache
+A:\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\CNS_IT_Ticketing_System_v1._0.AdminTickets.resources
+A:\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\CNS_IT_Ticketing_System_v1._0.chat.resources
+A:\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\CNS_IT_Ticketing_System_v1._0.CloseTicket.resources
+A:\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\CNS_IT_Ticketing_System_v1._0.Form1.resources
+A:\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\CNS_IT_Ticketing_System_v1._0.Form3.resources
+A:\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\CNS_IT_Ticketing_System_v1._0.NewPassword.resources
+A:\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\CNS_IT_Ticketing_System_v1._0.Form2.resources
+A:\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\CNS_IT_Ticketing_System_v1._0.More_Details.resources
+A:\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\CNS_IT_Ticketing_System_v1._0.Properties.Resources.resources
+A:\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\CNS_IT_Ticketing_System_v1._0.Savedates.resources
+A:\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\CNS_IT_Ticketing_System_v1._0.UpdateTicket.resources
+A:\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\IT Ticketing System.csproj.GenerateResource.Cache
+A:\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\IT Ticketing System.csproj.CoreCompileInputs.cache
+A:\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\CNS IT Ticketing System2.exe.manifest
+A:\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\CNS IT Ticketing System2.application
+A:\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\CNS IT Ticketing System2.exe.config
+A:\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\CNS IT Ticketing System2.exe.manifest
+A:\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\CNS IT Ticketing System2.application
+A:\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\CNS IT Ticketing System2.exe
+A:\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\CNS IT Ticketing System2.pdb
+A:\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\CNS IT Ticketing System2.exe
+A:\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\CNS IT Ticketing System2.pdb
+A:\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\CNS_IT_Ticketing_System_v1._0.EscalateReturn.resources
+A:\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\CNS_IT_Ticketing_System_v1._0.NewReturn.resources
+A:\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\CNS_IT_Ticketing_System_v1._0.ReturnData.resources
+A:\Programs created by Sage\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\IT Ticketing System.csprojAssemblyReference.cache
+A:\Programs created by Sage\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\CNS IT Ticketing System2.exe
+A:\Programs created by Sage\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\CNS IT Ticketing System2.pdb
+A:\Programs created by Sage\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\IT Ticketing System.csproj.ResolveComReference.cache
+A:\Programs created by Sage\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\CNS_IT_Ticketing_System_v1._0.AdminTickets.resources
+A:\Programs created by Sage\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\CNS_IT_Ticketing_System_v1._0.chat.resources
+A:\Programs created by Sage\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\CNS_IT_Ticketing_System_v1._0.CloseTicket.resources
+A:\Programs created by Sage\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\CNS_IT_Ticketing_System_v1._0.EscalateReturn.resources
+A:\Programs created by Sage\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\CNS_IT_Ticketing_System_v1._0.Form1.resources
+A:\Programs created by Sage\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\CNS_IT_Ticketing_System_v1._0.Form3.resources
+A:\Programs created by Sage\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\CNS_IT_Ticketing_System_v1._0.NewPassword.resources
+A:\Programs created by Sage\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\CNS_IT_Ticketing_System_v1._0.Form2.resources
+A:\Programs created by Sage\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\CNS_IT_Ticketing_System_v1._0.More_Details.resources
+A:\Programs created by Sage\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\CNS_IT_Ticketing_System_v1._0.NewReturn.resources
+A:\Programs created by Sage\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\CNS_IT_Ticketing_System_v1._0.Properties.Resources.resources
+A:\Programs created by Sage\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\CNS_IT_Ticketing_System_v1._0.ReturnData.resources
+A:\Programs created by Sage\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\CNS_IT_Ticketing_System_v1._0.Savedates.resources
+A:\Programs created by Sage\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\CNS_IT_Ticketing_System_v1._0.UpdateTicket.resources
+A:\Programs created by Sage\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\IT Ticketing System.csproj.GenerateResource.cache
+A:\Programs created by Sage\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\IT Ticketing System.csproj.CoreCompileInputs.cache
+A:\Programs created by Sage\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\CNS IT Ticketing System2.exe.manifest
+A:\Programs created by Sage\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\CNS IT Ticketing System2.application
+A:\Programs created by Sage\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\CNS IT Ticketing System2.exe.config
+A:\Programs created by Sage\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\CNS IT Ticketing System2.exe.manifest
+A:\Programs created by Sage\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\CNS IT Ticketing System2.application
+A:\Programs created by Sage\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\CNS IT Ticketing System2.exe
+A:\Programs created by Sage\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\CNS IT Ticketing System2.pdb

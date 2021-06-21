@@ -1,0 +1,14 @@
+C:\Users\sage.s.porter\Documents\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\bin\Debug\CNS IT Ticketing System v1.0.exe.config
+C:\Users\sage.s.porter\Documents\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\bin\Debug\CNS IT Ticketing System v1.0.exe
+C:\Users\sage.s.porter\Documents\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\bin\Debug\CNS IT Ticketing System v1.0.pdb
+C:\Users\sage.s.porter\Documents\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\CNS IT Ticketing System v1.0.csprojResolveAssemblyReference.cache
+C:\Users\sage.s.porter\Documents\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\CNS_IT_Ticketing_System_v1._0.Properties.Resources.resources
+C:\Users\sage.s.porter\Documents\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\CNS IT Ticketing System v1.0.csproj.GenerateResource.Cache
+C:\Users\sage.s.porter\Documents\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\CNS IT Ticketing System v1.0.csproj.CoreCompileInputs.cache
+C:\Users\sage.s.porter\Documents\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\CNS IT Ticketing System v1.0.exe
+C:\Users\sage.s.porter\Documents\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\CNS IT Ticketing System v1.0.pdb
+C:\Users\sage.s.porter\Documents\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\CNS_IT_Ticketing_System_v1._0.More_Details.resources
+C:\Users\sage.s.porter\Documents\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\CNS_IT_Ticketing_System_v1._0.Form2.resources
+C:\Users\sage.s.porter\Documents\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\CNS_IT_Ticketing_System_v1._0.UpdateTicket.resources
+C:\Users\sage.s.porter\Documents\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\CNS_IT_Ticketing_System_v1._0.Form1.resources
+C:\Users\sage.s.porter\Documents\CNS IT Ticketing System v1.0\CNS IT Ticketing System v1.0\obj\Debug\CNS_IT_Ticketing_System_v1._0.CloseTicket.resources
